@@ -1,5 +1,5 @@
 ////URLL-version=3;
-//// World-Census-Project_REPOLIST.urll
+//// vCoin_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all vCoin project repositories by @seanpm2001
 //// As of 2024, Thursday, November 14th
@@ -36,7 +36,7 @@ https://github.com/seanpm2001/iCoin_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 2 (2024, Thursday, November 14th at 10:25 pm PST)
+//// File version: 3 (2024, Thursday, November 14th at 10:40 pm PST)
 //// Line count (including blank lines and compiler line): 44
 //// ----------------------------------------------------- \\\\
 
